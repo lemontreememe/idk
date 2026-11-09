@@ -13,4 +13,4 @@ Vojta – Vývojář hádanek. Vymýšlí hádanky, kódy a nápovědy.
 
 Člen 4 – Programátor hry. Časovač, inventář, odemykání dveří a herní logika.
 
-Monika – Tester a příběhář. Testuje hru, připravuje příběh, pravidla a dokumentaci.
+Monika – Tester a příběhář. Testuje hru, připravuje příběh, pravidla a dokumentaci. :3
