@@ -5,7 +5,7 @@ Hráč se ocitne v tajemné místnosti a musí vyřešit hádanky, najít kódy 
 - Několik místností
 
 
-Člen 1 – Hlavní vývojář. Spojuje jednotlivé části, spravuje GitHub a kontroluje funkčnost.
+Marek – Hlavní vývojář. Spojuje jednotlivé části, spravuje GitHub a kontroluje funkčnost.
 
 Člen 2 – Grafik a designér. Vytváří temný vzhled, animace a responzivní design.
 
