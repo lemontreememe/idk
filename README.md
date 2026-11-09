@@ -7,7 +7,7 @@ Hráč se ocitne v tajemné místnosti a musí vyřešit hádanky, najít kódy 
 
 Marek – Hlavní vývojář. Spojuje jednotlivé části, spravuje GitHub a kontroluje funkčnost.
 
-Člen 2 – Grafik a designér. Vytváří temný vzhled, animace a responzivní design.
+Tom – Grafik a designér. Vytváří temný vzhled, animace a responzivní design.
 
 Vojta – Vývojář hádanek. Vymýšlí hádanky, kódy a nápovědy.
 
