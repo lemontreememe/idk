@@ -9,7 +9,7 @@ Hráč se ocitne v tajemné místnosti a musí vyřešit hádanky, najít kódy 
 
 Člen 2 – Grafik a designér. Vytváří temný vzhled, animace a responzivní design.
 
-Člen 3 – Vývojář hádanek. Vymýšlí hádanky, kódy a nápovědy.
+Vojta – Vývojář hádanek. Vymýšlí hádanky, kódy a nápovědy.
 
 Člen 4 – Programátor hry. Časovač, inventář, odemykání dveří a herní logika.
 
