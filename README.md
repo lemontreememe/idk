@@ -3,3 +3,14 @@ Hráč se ocitne v tajemné místnosti a musí vyřešit hádanky, najít kódy 
 - Hádanky a šifry
 - Časový limit
 - Několik místností
+
+
+Člen 1 – Hlavní vývojář. Spojuje jednotlivé části, spravuje GitHub a kontroluje funkčnost.
+
+Člen 2 – Grafik a designér. Vytváří temný vzhled, animace a responzivní design.
+
+Člen 3 – Vývojář hádanek. Vymýšlí hádanky, kódy a nápovědy.
+
+Člen 4 – Programátor hry. Časovač, inventář, odemykání dveří a herní logika.
+
+Monika – Tester a příběhář. Testuje hru, připravuje příběh, pravidla a dokumentaci.
